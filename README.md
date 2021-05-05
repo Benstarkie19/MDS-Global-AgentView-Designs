@@ -7,5 +7,5 @@ Backend UI/UX Designs Developed On Figma
 
 # Figma File Here
 
-
-[a relative link](MDS Global Wire.fig)
+Click [here](MDS Global Wire.fig) for my Figma File. 
+[a relative link]()
